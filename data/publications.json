@@ -1,0 +1,118 @@
+{
+  "orcid": "0000-0001-5732-4725",
+  "checked_at": "2026-11-12T09:31:39Z",
+  "publications": [
+    {
+      "title": "Elemental characterization of PM10 sources in the Pristine High-altitude Western Himalayan region",
+      "authors": "Saurabh, Chandel, A. S., Sarangi, C., Ningombam, S. S., Negi, H. S., & Bhattu, D.",
+      "journal": "Atmospheric Environment, 122492",
+      "year": 2026,
+      "type": "journal-article",
+      "doi": "10.1016/j.atmosenv.2026.122492",
+      "url": "https://doi.org/10.1016/j.atmosenv.2026.122492",
+      "source": "ORCID + CV",
+      "put_code": 232841202
+    },
+    {
+      "title": "Atmospheric deposition of anthropogenic microfibers in different indoor environments of Chennai, India",
+      "authors": "Jessieleena, A. A., Iniyan, K. E., Chandel, A. S., D’Sa, S. V., Nilofer, M., & Nambi, I. M.",
+      "journal": "Atmospheric Pollution Research, 102629",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": "10.1016/j.apr.2025.102629",
+      "url": "https://doi.org/10.1016/j.apr.2025.102629",
+      "source": "ORCID + CV",
+      "put_code": 186082130
+    },
+    {
+      "title": "Characterization and Impacts of Pre-Monsoonal Dust Events on Aerosol Optical Properties and Snow Albedo in the Indian Himalayas",
+      "authors": "Chandel, A. S., Sarangi, C., Rittger, K., Hooda, R. K., & Hyvärinen, A. P.",
+      "journal": "EGU General Assembly 2025, EGU25-2034",
+      "year": 2025,
+      "type": "conference-abstract",
+      "doi": "10.5194/egusphere-egu25-2034",
+      "url": "https://doi.org/10.5194/egusphere-egu25-2034",
+      "source": "ORCID + CV",
+      "put_code": 180082090,
+      "note": "ORCID classifies this EGU conference abstract as a preprint. Curated as conference-abstract for accurate display."
+    },
+    {
+      "title": "In situ characterization of dust storms and their snow-darkening effect over Himalayas",
+      "authors": "Chandel, A. S., Sarangi, C., Rittger, K., Hooda, R. K., & Hyvärinen, A. P.",
+      "journal": "Journal of Geophysical Research: Atmospheres, 130(2), e2024JD041874",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": "10.1029/2024jd041874",
+      "url": "https://doi.org/10.1029/2024JD041874",
+      "source": "ORCID + CV",
+      "put_code": 175810171,
+      "featured": true
+    },
+    {
+      "title": "Investigating the Role of Meteorological Parameters in the Transport of Air Pollutants from LPG Tank Trailer Explosion in Jaipur, India",
+      "authors": "Suthar, G., Chandel, A. S., & Singh, S.",
+      "journal": "Atmospheric Pollution Research, 102639",
+      "year": 2025,
+      "type": "journal-article",
+      "doi": "10.1016/j.apr.2025.102639",
+      "url": "https://doi.org/10.1016/j.apr.2025.102639",
+      "source": "ORCID + CV",
+      "put_code": 187070304
+    },
+    {
+      "title": "A scaling relation for cryoconite holes",
+      "authors": "Banerjee, A., Sarangi, C., Rashid, I., Vijay, S., Najar, N. A., & Chandel, A. S.",
+      "journal": "Geophysical Research Letters, 50(22), e2023GL104942",
+      "year": 2023,
+      "type": "journal-article",
+      "doi": "10.1029/2023gl104942",
+      "url": "https://doi.org/10.1029/2023GL104942",
+      "source": "ORCID + CV",
+      "put_code": 146886302
+    },
+    {
+      "title": "Identification of Elevated Aerosol Layers and their properties by using ground-based aerosol measurements over the foothills of the central Himalayas",
+      "authors": "Chandel, A. S., Sarangi, C., Hooda, R., & Hyvärinen, A.",
+      "journal": "2022 URSI Regional Conference on Radio Science (URSI-RCRS), pp. 1–4, IEEE",
+      "year": 2022,
+      "type": "conference-paper",
+      "doi": "10.23919/ursi-rcrs56822.2022.10118448",
+      "url": "http://dx.doi.org/10.23919/ursi-rcrs56822.2022.10118448",
+      "source": "ORCID + CV",
+      "put_code": 173029492
+    },
+    {
+      "title": "Aerosol properties over desert influenced locations situated in four different continents",
+      "authors": "Soni, M., Chandel, A. S., Verma, S., Payra, S., Prakash, D., & Holben, B.",
+      "journal": "Atmospheric Environment, 118232",
+      "year": 2021,
+      "type": "journal-article",
+      "doi": "10.1016/j.atmosenv.2021.118232",
+      "url": "http://dx.doi.org/10.1016/j.atmosenv.2021.118232",
+      "source": "ORCID + CV",
+      "put_code": 133521418
+    },
+    {
+      "title": "Impact of climate change and water quality degradation on food security and agriculture",
+      "authors": "Gupta, P., Singh, J., Verma, S., Chandel, A. S., & Bhatla, R.",
+      "journal": "Water Conservation in the Era of Global Climate Change, pp. 1–22, Elsevier",
+      "year": 2021,
+      "type": "book-chapter",
+      "doi": "10.1016/b978-0-12-820200-5.00006-3",
+      "url": "http://dx.doi.org/10.1016/b978-0-12-820200-5.00006-3",
+      "source": "ORCID + CV",
+      "put_code": 133521437
+    },
+    {
+      "title": "Validation of surface temperature derived from MERRA-2 Reanalysis against IMD gridded data set over India",
+      "authors": "Gupta, P., Verma, S., Bhatla, R., Chandel, A. S., Singh, J., & Payra, S.",
+      "journal": "Earth and Space Science, 7, e2019EA000910",
+      "year": 2020,
+      "type": "journal-article",
+      "doi": "10.1029/2019ea000910",
+      "url": "https://doi.org/10.1029/2019EA000910",
+      "source": "ORCID + CV",
+      "put_code": 66003393
+    }
+  ]
+}
